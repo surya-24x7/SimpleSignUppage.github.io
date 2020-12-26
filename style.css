@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.card{
+	border: none!important;
+
+}
+
+.card-body{
+	margin: 0!important;
+	padding: 0!important;
+}
+
+
+.container{
+	margin: 100px 0;
+}
